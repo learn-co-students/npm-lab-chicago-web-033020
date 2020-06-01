@@ -1,0 +1,17 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "this is a description",
+  "main": "index.js",
+  "scripts": {
+    "test": "sup"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "bart",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
